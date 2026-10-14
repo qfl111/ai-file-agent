@@ -1,0 +1,14 @@
+# 密钥文件（含真实 API Key，绝不提交到 GitHub！）
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
